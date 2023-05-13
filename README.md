@@ -1,4 +1,4 @@
-![logo](https://img.freepik.com/free-vector/illustration-web-design_53876-18157.jpg?w=1060&t=st=1683964280~exp=1683964880~hmac=03a0f43f85502bcf7e99b1544421dd8d4e1a79d63b5b6fd90f20e543c89bc3f6)
+![MasterHead](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1)
 <h1 align="center">Hi 👋, I'm Vamsi Renangi</h1>
 <h3 align="center">An Aspiring MERN stack web developer from india</h3>
 
