@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vamsi Renangi</h1>
 <h3 align="center">An Aspiring MERN stack web developer from india</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsirenangi&label=Profile%20views&color=0e75b6&style=flat" alt="vamsirenangi" /> </p>
 
