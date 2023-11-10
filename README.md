@@ -1,14 +1,12 @@
 ![MasterHead](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1)
 <h1 align="center">Hi 👋, I'm Vamsi Renangi</h1>
-<h3 align="center">An Aspiring MERN stack web developer from india</h3>
+<h3 align="center">Frontend Developer Intern at Techbrains Innovative Solutions</h3>
 
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsirenangi&label=Profile%20views&color=0e75b6&style=flat" alt="vamsirenangi" /> </p>
 
-- 🌱 I’m currently learning **React JS**
-
-- 💬 Ask me about **JS,Python,HTML,CSS,SQL**
+- 💬 Ask me about **React.js, JS, HTML, CSS, Redux, Bootstrap**
 
 - 📫 How to reach me **vamsirenangi1505@gmail.com**
 
